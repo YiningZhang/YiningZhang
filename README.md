@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YiningZhang
-- 👀 I’m interested in coding and sleeping
-- 🌱 I’m currently learning English
+- 👀 I’m interested in coding and pilates
+- 🌱
 
 
 <!---
